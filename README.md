@@ -13,5 +13,4 @@
 <li>Aplicativo Cine Stellar</li>
 
 ## Estudando
-**C#**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="70px" height="70px" />
