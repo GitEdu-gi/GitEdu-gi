@@ -1,6 +1,6 @@
 # Opa essa é minha github aqui farei deploy de sites e irei postar mais algumas coisas 
 
-<center>## Linguagens:</center>
+## Linguagens:
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="70px" height="70px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="70px" height="70px" />
