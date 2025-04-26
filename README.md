@@ -1,4 +1,4 @@
-# Opa essa é minha github aqui farei deploy de sites e irei postar mais algumas coisas 
+# Opa! essa é minha github aqui farei deploy de sites e irei postar mais algumas coisas 
 
 ## Linguagens:
 <div>
@@ -10,6 +10,6 @@
 
 ## Projetos:
 <li>Dreams.exe</li>
-
+<li>Bosta Navegator</li>
 ## Estudando
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsR9zEOASbdiOEFfcEW0q5BwS5dT10S2APRw&s" width="70px" height="70px" />
