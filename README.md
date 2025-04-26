@@ -12,4 +12,4 @@
 <li>Dreams.exe</li>
 
 ## Estudando
-<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsR9zEOASbdiOEFfcEW0q5BwS5dT10S2APRw&s)" width="70px" height="70px" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsR9zEOASbdiOEFfcEW0q5BwS5dT10S2APRw&s" width="70px" height="70px" />
