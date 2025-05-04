@@ -6,5 +6,5 @@
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GitEdu-gi&locale=pt_BR&card_height=100)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GitEdu-gi&locale=pt_BR)](https://git.io/streak-stats)
 </div>
