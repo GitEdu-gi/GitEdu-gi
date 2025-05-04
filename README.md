@@ -4,4 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=50&duration=2000&pause=700&color=07F7B4&center=true&vCenter=true&width=800&height=67&lines=Ola!;Eu+sou+o+Edu;Sou+um+programador+;C%23%2CVB%2CHTML+e+CSS)](https://git.io/typing-svg)
 
 
-<div>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)</div>
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carolbarbosa101&theme=violet-dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+
+</div>
