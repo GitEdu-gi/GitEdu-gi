@@ -1,1 +1,1 @@
-<img src= "https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient">
+<img src= "https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient">
