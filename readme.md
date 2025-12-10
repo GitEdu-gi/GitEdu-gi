@@ -1,8 +1,8 @@
 # 👍Edu
-#### **`Programmer C#`**
+**`Programmer C#`**
 <br>
-
-### 🟣 Meu nome é Eduardo minha linguagem de programação principal é C# eu programo pra passar o tempo 
+🟣 Meu nome é Eduardo minha linguagem de programação principal é C# eu programo pra passar o tempo estou aprendendo
+Assembly e javascript
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width= 40px
    height= 50px; />
