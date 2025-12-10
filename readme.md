@@ -1,5 +1,5 @@
 # 👍Edu
-<mark>**`Programmer C#`**</mark>
+**<mark>`Programmer C#`</mark>**
 
 
 🟣 Meu nome é Eduardo, minha linguagem de programação principal é C#. Eu programo para passar o tempo, estou aprendendo
