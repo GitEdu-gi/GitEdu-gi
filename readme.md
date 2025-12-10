@@ -2,8 +2,9 @@
 **`Programmer C#`**
 
 
-🟣 Meu nome é Eduardo minha linguagem de programação principal é C# eu programo pra passar o tempo estou aprendendo
-Assembly e javascript
+🟣 Meu nome é Eduardo, minha linguagem de programação principal é C#. Eu programo para passar o tempo, estou aprendendo
+Assembly e JavaScript eu sei fazer malwares, apesar de que estou há um bom tempo sem mexer neles. Faço coisas em Windows
+Forms tenho um canal no YouTube, mas faz muito tempo que eu não posto nada. Enfim, essa é minha GitHub.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width= 40px
    height= 50px; />
