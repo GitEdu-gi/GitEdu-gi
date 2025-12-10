@@ -1,6 +1,7 @@
 # 👍Edu
 **`Programmer C#`**
-<br>
+
+
 🟣 Meu nome é Eduardo minha linguagem de programação principal é C# eu programo pra passar o tempo estou aprendendo
 Assembly e javascript
 
