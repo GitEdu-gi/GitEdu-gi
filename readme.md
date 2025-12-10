@@ -1,4 +1,4 @@
-## 👍 Olá Bem vindo ao meu perfil eu sou o Edu
+# 👍 Olá Bem vindo ao meu perfil eu sou o Edu
 ### 🟣 A minha linguagem principal é C# programo mais para passar o tempo 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width= 40px
