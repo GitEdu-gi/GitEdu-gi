@@ -1,3 +1,4 @@
 # 👍 Olá Bem vindo ao meu perfil eu sou o Edu
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="   width: 20px;
+   height: 20px;" />
