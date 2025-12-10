@@ -1,5 +1,5 @@
 # 👍Edu
-**<mark>`Programmer C#`</mark>**
+**`Programmer C#`**
 
 
 🟣 Meu nome é Eduardo, minha linguagem de programação principal é C#. Eu programo para passar o tempo, estou aprendendo
@@ -14,3 +14,7 @@ Forms tenho um canal no YouTube, mas faz muito tempo que eu não posto nada. Enf
    height= 50px;/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width= 40px
    height= 50px;/>
+<div>
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC177sCc63-aazx2T3n1LGWg)
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</div>
