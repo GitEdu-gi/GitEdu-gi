@@ -27,3 +27,5 @@ Forms tenho um canal no YouTube, mas faz muito tempo que eu não posto nada. Enf
 [![YouTube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white)](https://www.youtube.com/@Eu_Edu1234)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emailquenaopodeesquecer@gmail.com)
 
+### Projects
+
